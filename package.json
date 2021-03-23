@@ -1,0 +1,15 @@
+{
+  "name": "iotdevice",
+  "version": "1.0.0",
+  "description": "Azure Iot Device Sample",
+  "main": "iotdevice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.17.3",
+    "azure-iot-device-amqp": "^1.13.3"
+  }
+}
